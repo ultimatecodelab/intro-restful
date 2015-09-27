@@ -27,3 +27,5 @@ In this exercise we will have a look at the bullding of a simple RESTful API.
 - See [here(http://expressjs.com/starter/hello-world.html) for the Express Hello World example.
 
 - See [this](http://stackoverflow.com/questions/8506658/node-js-express-routing-with-get-params) Stack Overflow post for the syntax for using parameters in routes.
+
+- To understand where express is installed, it is recommended you read [this](https://docs.npmjs.com/files/folders).
