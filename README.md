@@ -14,7 +14,7 @@ In this exercise we will have a look at the bullding of a simple RESTful API.
 
 1. Connect to http://127.0.0.1/list using the command 'curl -v http://127.0.0.1:8000'. Examine the request and response.
 
-1. Add a new route in rest.js with the format '/todo/<num>', where <num> is an integer. The route should respond, in JSON, the task at index <num>.  
+1. Add a new route in rest.js with the format '/todo/\<num\>', where \<num\> is an integer. The route should respond, in JSON, the task at index \<num\>.  
 
 ## Advanced exercises
 1. Create a new route to delete an element of the todos, by index.
