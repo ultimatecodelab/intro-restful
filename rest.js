@@ -6,8 +6,7 @@ var todos = [
   'Clean dog.'
   , 'Buy Groceries.'
   , 'Send letter.'
-  
-]
+];
 
 app.get('/', function(req, res) {
     res.json({ message: 'It works!' });   
