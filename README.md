@@ -2,7 +2,7 @@
 In this exercise we will have a look at the bullding of a simple RESTful API.
 
 ## Exercises
-1. Update npm using the command 'npm install -g npm'.
+1. Update npm using the commands 'npm cache clear' and 'npm install -g npm'.
 
 1. Download the files in this repository, extract them, and open a command prompt in the directory.
 
