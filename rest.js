@@ -16,8 +16,4 @@ app.get('/todo', function(req, res) {
     res.json(todos);   
 });
 
-app.get('/todo/:id', function(req, res) {
-    res.json(todos[req.params.id]);   
-});
-
 var server = app.listen(8000);
