@@ -2,7 +2,7 @@
 In this exercise we will have a look at the bullding of a simple RESTful API.
 
 ## Exercises
-1. Update npm using the commands 'npm cache clear' and 'npm install -g npm'.
+1. (Only if you're using a lab PC.) Update npm by downloading the zip file [here](https://github.com/npm/npm/archive/v3.3.4.zip), and unzipping it. (Use the 'Extract here' option in PeaZip.) Rename the unzipped folder npm. Delete your npm folder in u:\node\node_modules, and move the newly download npm folder to u:\node\node_modules. (So, replace the npm folder in u:\node\node_modules with the new one.
 
 1. Download the files in this repository, extract them, and open a command prompt in the directory.
 
