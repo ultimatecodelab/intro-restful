@@ -6,7 +6,7 @@ In this exercise we will have a look at the bullding of a simple RESTful API.
 
 1. Download the files in this repository, extract them, and open a command prompt in the directory.
 
-1. Install express in the current directory using the command 'npm install express'.
+1. Install express in the current directory using the command 'npm install express'. Note that here we are not using the '-g' option. g stands for global, and will install node packages in the global node_modules location. We want express installed in the current directory instead.
 
 1. Download curl.exe from [here](http://www.paehl.com/open_source/?CURL_7.44.0).
 
