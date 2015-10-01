@@ -12,7 +12,7 @@ In this exercise we will have a look at the bullding of a simple RESTful API.
 
 1. Run rest.js using node.
 
-1. Connect to http://127.0.0.1/todo using the command 'curl -v http://127.0.0.1:8000'. Examine the request and response.
+1. Connect to http://127.0.0.1:8000/todo using the command 'curl -v http://127.0.0.1:8000'. Examine the request and response.
 
 1. Add a new route in rest.js with the format '/todo/\<num\>', where \<num\> is an integer. The route should respond, in JSON, with the task at index \<num\>. 
 
